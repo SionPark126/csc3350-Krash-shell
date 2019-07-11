@@ -15,7 +15,7 @@ You can also remove the krash executable by typing,
 ```
 make clean
 ```
-
+![image](krash.png)
 ## Built in functions
 
   * exit – exits the program
