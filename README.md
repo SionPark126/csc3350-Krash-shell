@@ -1,4 +1,4 @@
-Follow the instructions on Canvas.  This README will be replaced with *your* README.
+
 
 ## Running krash
 
