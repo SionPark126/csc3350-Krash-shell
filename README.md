@@ -36,3 +36,9 @@ make clean
   ```
   Usage: help
   ```
+
+## Non-built in functions
+
+Any non-built-in command should be executed if it is in one of the directories specified in the user’s path. 
+
+* Fork a child process, pass appropriate arguments to exec, and wait for the child to return before continuing to accept user input.
